@@ -1,4 +1,4 @@
-# :sparkles: :heart: Emoji-Cheat-Sheet.com :heart: :sparkles:
+# :sparkles: :heart: Emoji-Cheat-Sheet.coding.io :heart: :sparkles:
 
 A one pager listing the different emoji emoticons supported on
 [Campfire](http://campfirenow.com/),
@@ -91,3 +91,5 @@ Feel inspired? Do a pull request and add a synonym for your favourite emoji or m
 ### Contributors
 
 Check out all the super awesome contributors at [the contributors page](https://github.com/arvida/emoji-cheat-sheet.com/graphs/contributors). :sparkling_heart:
+
+总之这是中文版呢 :smile:
