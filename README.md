@@ -1,4 +1,4 @@
-# :sparkles: :heart: Emoji-Cheat-Sheet.coding.io :heart: :sparkles:
+# :sparkles: :heart: Emoji-Cheat-Sheet.github.io :heart: :sparkles:
 
 A one pager listing the different emoji emoticons supported on
 [Campfire](http://campfirenow.com/),
